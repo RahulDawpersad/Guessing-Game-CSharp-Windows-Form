@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GuessingGameProject\bin\Debug\GuessingGameProject.exe.config
+C:\Users\PC\source\repos\GuessingGameProject\bin\Debug\GuessingGameProject.exe
+C:\Users\PC\source\repos\GuessingGameProject\bin\Debug\GuessingGameProject.pdb
+C:\Users\PC\source\repos\GuessingGameProject\obj\Debug\GuessingGameProject.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GuessingGameProject\obj\Debug\GuessingGameProject.Properties.Resources.resources
+C:\Users\PC\source\repos\GuessingGameProject\obj\Debug\GuessingGameProject.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GuessingGameProject\obj\Debug\GuessingGameProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GuessingGameProject\obj\Debug\GuessingGameProject.exe
+C:\Users\PC\source\repos\GuessingGameProject\obj\Debug\GuessingGameProject.pdb
+C:\Users\PC\source\repos\GuessingGameProject\obj\Debug\GuessingGameProject.GuessingGameForm.resources
